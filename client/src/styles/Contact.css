@@ -1,0 +1,13 @@
+.contactus {
+    min-height: 80vh; 
+    padding: 20px;
+  }
+  
+  .contact-info {
+    max-width: 500px;
+  }
+  
+  .contact-info h1 {
+    width: 100%;
+  }
+  

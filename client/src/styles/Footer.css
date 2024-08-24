@@ -1,0 +1,34 @@
+.footer-section {
+    background: #343a40;
+    color: white;
+    padding: 40px 0;
+  }
+  
+  .footer-section h5 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .footer-section p {
+    font-size: 1rem;
+  }
+  
+  .footer-section .nav-link {
+    color: #adb5bd;
+    padding: 0.5rem 0;
+  }
+  
+  .footer-section .nav-link:hover {
+    color: white;
+  }
+  
+  .footer-section .social-icons a {
+    color: #adb5bd;
+    margin-right: 15px;
+    font-size: 1.2rem;
+  }
+  
+  .footer-section .social-icons a:hover {
+    color: white;
+  }
+  

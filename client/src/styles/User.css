@@ -1,0 +1,9 @@
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: white;
+}
